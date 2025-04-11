@@ -49,6 +49,6 @@ Built using modern React practices, clean component structure, and functional co
 - **Routing:** React Router DOM
 - **Styling:** Pure CSS 
 - **API:** [Fake Store API](https://fakestoreapi.com/)
-- **Deployment:** Netlify & GitHub Pages (optional)
+- **Deployment:** Netlify 
 
 ---
