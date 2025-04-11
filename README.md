@@ -45,7 +45,7 @@ Built using modern React practices, clean component structure, and functional co
 
 ## 🧑‍💻 Tech Stack
 
-- **Frontend:** React.js
+- **Frontend:** React+vite
 - **Routing:** React Router DOM
 - **Styling:** Pure CSS 
 - **API:** [Fake Store API](https://fakestoreapi.com/)
