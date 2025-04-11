@@ -1,7 +1,6 @@
 # 🛍️ Simple Product Store
 
-Welcome to the **Simple Product Store** — a fully responsive eCommerce frontend project built with **React** that fetches product data from [Fake Store API](https://fakestoreapi.com/). The site allows users to browse products, view product details, and filter by category with a clean and human-centered UI.
-
+Welcome to the **Simple Product Store** — a fully responsive eCommerce frontend project built with **React** that fetches product data from [Fake Store API](https://fakestoreapi.com/). 
 ---
 
 ## 🔗 Live Demo
@@ -36,7 +35,7 @@ Built using modern React practices, clean component structure, and functional co
 
 ### 🏠 Home Page
 > Product Grid with Category Filter  
-![Home Page](https://via.placeholder.com/800x400?text=Home+Page+Screenshot)
+![Home Page](./index+Page.png)
 
 ### 📦 Product Details Page
 > Detailed View of a Product  
