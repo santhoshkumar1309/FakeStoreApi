@@ -35,7 +35,7 @@ Built using modern React practices, clean component structure, and functional co
 
 ### 🏠 Home Page
 > Product Grid with Category Filter  
-![Home Page](./index+Page.png)
+![Index Page](./store-app/Index%20Page.png)
 
 ### 📦 Product Details Page
 > Detailed View of a Product  
@@ -47,11 +47,8 @@ Built using modern React practices, clean component structure, and functional co
 
 - **Frontend:** React.js
 - **Routing:** React Router DOM
-- **Styling:** Pure CSS (No Tailwind or external UI frameworks)
+- **Styling:** Pure CSS 
 - **API:** [Fake Store API](https://fakestoreapi.com/)
 - **Deployment:** Netlify & GitHub Pages (optional)
 
 ---
-
-## 📁 Folder Structure
-
