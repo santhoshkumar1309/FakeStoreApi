@@ -1,6 +1,6 @@
 # 🛍️ Simple Product Store
 
-Welcome to the **Simple Product Store** — a fully responsive eCommerce frontend project built with **React** that fetches product data from [Fake Store API](https://fakestoreapi.com/). 
+Welcome to the **Simple Product Store** a fully responsive eCommerce frontend project built with **React** that fetches product data from [Fake Store API](https://fakestoreapi.com/). 
 ---
 
 ## 🔗 Live Demo
@@ -39,7 +39,7 @@ Built using modern React practices, clean component structure, and functional co
 
 ### 📦 Product Details Page
 > Detailed View of a Product  
-![Product Page](https://via.placeholder.com/800x400?text=Product+Details+Screenshot)
+![Product Page](./store-app/Product%20Page.png)
 
 ---
 
