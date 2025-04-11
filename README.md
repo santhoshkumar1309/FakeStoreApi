@@ -7,7 +7,6 @@ Welcome to the **Simple Product Store** — a fully responsive eCommerce fronten
 ## 🔗 Live Demo
 
 👉 [View Live on Netlify](https://product-store-app-s.netlify.app/)  
-*(Replace this link with your actual deployment URL)*
 
 ---
 
