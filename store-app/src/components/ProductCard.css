@@ -1,0 +1,32 @@
+.card {
+    background: white;
+    border-radius: 8px;
+    padding: 1rem;
+    text-align: center;
+    box-shadow: 0 0 20px black;
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.card img {
+    height: 180px;
+    width: 100%;
+    object-fit: contain;
+    display: block;
+    margin: 0 auto 1rem;
+    display: block;
+}
+
+.card h2 {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.card p {
+    color: green;
+    font-weight: bold;
+}
